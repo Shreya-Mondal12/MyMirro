@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MyMirro
 fashion-platform-backend
 =======
