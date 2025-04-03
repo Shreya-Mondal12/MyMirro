@@ -69,11 +69,10 @@ npm run lint
 
 ## Deployment
 
-For production deployment:
+## For production deployment:
 
 ```
 npm run build
 npm start
 
-```
 ```
